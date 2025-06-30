@@ -35,7 +35,7 @@ title = "Pink Triangle Racing"
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
   #   { hashnode = "https://username.hashnode.dev" },
-     { instagram = "https://www.instagram.com/pinktriangleracing/" }
+     { instagram = "https://www.instagram.com/pinktriangleracing/" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
@@ -61,6 +61,6 @@ title = "Pink Triangle Racing"
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
-  #   { youtube = "https://youtube.com/username" },
+     { youtube = "https://www.youtube.com/@pinktriangleracing496" }
   #   { xing = "https://xing.com/profile/username" },
    ]
