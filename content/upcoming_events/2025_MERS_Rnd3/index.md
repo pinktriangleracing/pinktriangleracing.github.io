@@ -1,7 +1,9 @@
 +++
-date = '2025-06-28T09:45:50+01:00'
-draft = true
+date = '2025-07-01'
+draft = false
 title = '2025 MERS Rnd 3'
+#showDateUpdated = true
+#showDate = 
 +++
 
 Pink Triangle Racing will be entering a bike at the MERS 6hr race at Pembrey on August 9th 2025.  Event details below.
