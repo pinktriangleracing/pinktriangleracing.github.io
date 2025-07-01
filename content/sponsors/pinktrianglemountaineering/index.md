@@ -4,6 +4,7 @@ draft = true
 title = 'Pink Triangle Mountaineering'
 +++
 
-Some stuff about PTM and their inclusive Mountaineering avtivities.
+![](PTM_4.png)
+Pink Triangle Mountaineering provides activities into the UK's mountainous regions, with a focus on activites being open and welcoming to everyone from all backgrounds.  
 
-Link to PTM Instagram Page.
+To find out more, do go and check out their [instagram page](https://www.instagram.com/pinktrianglemountaineering/).
