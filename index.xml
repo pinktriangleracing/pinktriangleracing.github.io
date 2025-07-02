@@ -23,13 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Join us</title>
-      <link>http://localhost:1313/join_us/</link>
-      <pubDate>Sun, 29 Jun 2025 19:06:46 +0100</pubDate>
-      <guid>http://localhost:1313/join_us/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Pink Triangle Mountaineering</title>
       <link>http://localhost:1313/sponsors/pinktrianglemountaineering/</link>
       <pubDate>Sat, 28 Jun 2025 11:15:58 +0100</pubDate>
@@ -41,13 +34,6 @@
       <link>http://localhost:1313/sponsors/blj91a/</link>
       <pubDate>Sat, 28 Jun 2025 11:14:45 +0100</pubDate>
       <guid>http://localhost:1313/sponsors/blj91a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sat, 28 Jun 2025 10:17:52 +0100</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +55,6 @@
       <link>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</link>
       <pubDate>Sat, 28 Jun 2025 09:48:15 +0100</pubDate>
       <guid>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 28 Jun 2025 09:42:50 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
       <description></description>
     </item>
   </channel>
