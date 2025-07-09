@@ -4,6 +4,13 @@
   
     
       <url>
+            <loc>http://localhost:1313/upcoming_events/2025_freetech_redlodge/</loc>
+            <lastmod>2025-07-09T20:44:05+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/race_reports/2024/freetech_teesside_rnd1/</loc>
             <lastmod>2025-07-01T03:20:46+01:00</lastmod>
           </url>
@@ -13,6 +20,13 @@
       <url>
             <loc>http://localhost:1313/upcoming_events/2025_mers_rnd3/</loc>
             <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/join_us/</loc>
+            <lastmod>2025-06-29T19:06:46+01:00</lastmod>
           </url>
     
   
@@ -34,6 +48,13 @@
       <url>
             <loc>http://localhost:1313/sponsors/blj91a/</loc>
             <lastmod>2025-06-28T11:14:45+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/contact/</loc>
+            <lastmod>2025-06-28T10:17:52+01:00</lastmod>
           </url>
     
   
@@ -67,8 +88,29 @@
   
     
       <url>
+            <loc>http://localhost:1313/race_reports/</loc>
+            <lastmod>2025-06-28T09:49:45+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</loc>
             <lastmod>2025-06-28T09:48:15+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/upcoming_events/</loc>
+            <lastmod>2025-06-28T09:44:15+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/about/</loc>
+            <lastmod>2025-06-28T09:42:50+01:00</lastmod>
           </url>
     
   
