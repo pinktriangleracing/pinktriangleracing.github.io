@@ -1,6 +1,6 @@
 +++
 date = '2025-06-29T19:06:46+01:00'
-draft = true
+draft = false
 title = 'Join us'
 showTableOfContents = true
 description = "What does a rider need to bring to join in a race event?"

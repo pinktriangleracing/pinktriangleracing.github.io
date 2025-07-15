@@ -1,6 +1,6 @@
 +++
 date = '2025-06-28T09:44:15+01:00'
-draft = true
+draft = false
 title = 'Upcoming Events'
 showDate = false
 

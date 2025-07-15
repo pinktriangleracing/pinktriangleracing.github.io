@@ -1,6 +1,6 @@
 +++
 date = '2025-06-28T09:42:50+01:00'
-draft = true
+draft = false
 title = 'About'
 showTableOfContents = true
 +++
