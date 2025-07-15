@@ -24,7 +24,7 @@ Pink Triangle Racing is building a team to enter the upcoming Freetech 10hr endu
 | Number of team riders | 3 riders|
 
 # Get Involved
-If a real endurance challenge is what you're after, this is a great change to get involved.  Have a look through the [join us](join_us) page for further details about what you'll need, and feel free to get in [contact](contact) to get signed up.
+If a real endurance challenge is what you're after, this is a great chance to get involved.  Have a look through the [join us](join_us) page for further details about what you'll need, and feel free to get in [contact](contact) to get signed up.
 
 # Team logistics
 The bike will likely be arriving at the venue during the evening of Thursday 7th July, with some team members camping at the track.  Riders will need to arrange their own accomodation for any nights they will be present.
