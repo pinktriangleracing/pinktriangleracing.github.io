@@ -35,7 +35,7 @@ Thursday -> Travel and unpack day.
 ![](hotel.jpg)
 
 Friday -> Test day and 2hr Endurance Race.  
-- Team members make their way to the track, for track and bike familiarisation for the majority of the day.  The last 2 hrs of the day will be the penultimate race of the season, being a 2hre endurance race.
+- Team members make their way to the track, for track and bike familiarisation for the majority of the day.  The last 2 hrs of the day will be the penultimate race of the season, being a 2hr endurance race.
 - Then it's back to the hotel for some food, any drinks and sleep.
 
 Saturday -> Endurance race day
