@@ -29,4 +29,4 @@ Pink Triangle Racing is looking to make the trip up north to Wigan's home of mot
 If a real endurance challenge is what you're after, this is a great chance to get involved.  Have a look through the [join us](join_us) page for further details about what you'll need, and feel free to get in [contact](contact) to get signed up.
 
 # Team logistics
-With key team members on blood bikes duty the proceeding week, it's most likely the bike will be arriving early on the Friday morning.  Some riders will be looking to camp at the circuit over the weekend. All riders joining the team will need to ensure they have arranged their own accommodation for the race meet.
+With key team members on [blood bikes](https://freewheelers.org.uk/) duty the proceeding week, it's most likely the bike will be arriving early on the Friday morning.  Some riders will be looking to camp at the circuit over the weekend. All riders joining the team will need to ensure they have arranged their own accommodation for the race meet.
