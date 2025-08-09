@@ -22,8 +22,8 @@ Pink Triangle Racing is already looking ahead to the final round of the Freetech
 | Bike | KTM RC 125 |
 | **Saturday 8th November**||
 | Event Format | 8hr Endurance Race |
-| **Sunday 9th November**|Travel day.  Typically team members will return back to the UK on the Sunday, following Saturday's racing.  This gives a more relaxed home-bound journey. |
 | Bike | KTM RC 125 |
+| **Sunday 9th November**|Travel day.  Typically team members will return back to the UK on the Sunday, following Saturday's racing.  This gives a more relaxed home-bound journey. |
 | Number of team riders | 3 riders per team|
 
 Previous years have seen the championship racing on the Andalucia Circuit, and, though it's not yet confirmed, it's likely that the 2025 event will be on this (Andalucia) circuit, as opposed to the Almeria circuit.
