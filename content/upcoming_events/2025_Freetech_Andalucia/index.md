@@ -5,7 +5,7 @@ title = '2025 Freetech Andalucia - 7th & 8th November'
 showTableOfContents = true
 +++
 
-Hello World!!  This is a bit of a test.!!
+Hello World!!
 
 Pink Triangle Racing is already looking ahead to the final round of the Freetech 2025 season.  As a bit of a blast of late-year warmth, the championship travels out to Spain for a weekend of sunshine, warmth and bike racing, just as the UK's transitioning into the winter season.  Want to come and spend a couple days messing about on motorbikes, then come along and join the team.
 
