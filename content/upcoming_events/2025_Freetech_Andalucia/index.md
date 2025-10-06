@@ -13,8 +13,8 @@ Pink Triangle Racing is already looking ahead to the final round of the Freetech
 | Item | Notes |
 |---------|----------|
 | Date | Friday & Saturday 7th & 8th November 2025 |
-| Venue | [Andalucia circuit](https://andaluciacircuit.com/) or [Almeria circuit](https://almeriacircuit.com/en/home-english/) (still to be announced)|
-| Venue location |[Southern Spain](https://maps.app.goo.gl/pJCAX7tExksmqnhP9)  |
+| Venue | [Andalucia circuit](https://andaluciacircuit.com/)|
+| Venue location |[Southern Spain](https://maps.app.goo.gl/8q7Q8cp6uvuckMia6)  |
 |Championship | [Freetech Endurance](https://www.freetechendurance.com/) |
 |**Thursday 6th November**| Travel day.  Team members make their way to the hotel accommodation in Mojacar.|
 | **Friday 7th November** ||
@@ -25,8 +25,6 @@ Pink Triangle Racing is already looking ahead to the final round of the Freetech
 | Bike | KTM RC 125 |
 | **Sunday 9th November**|Travel day.  Typically team members will return back to the UK on the Sunday, following Saturday's racing.  This gives a more relaxed home-bound journey. |
 | Number of team riders | 3 riders per team|
-
-Previous years have seen the championship racing on the Andalucia Circuit, and, though it's not yet confirmed, it's likely that the 2025 event will be on this (Andalucia) circuit, as opposed to the Almeria circuit.
 
 # International Event Format:
 Thursday -> Travel and unpack day.  
