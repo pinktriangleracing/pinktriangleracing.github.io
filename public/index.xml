@@ -1,82 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pink Triangle Racing</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Pink Triangle Racing</description>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jul 2025 17:31:11 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 Freetech Andalucia - 7th &amp; 8th November</title>
-      <link>http://localhost:1313/upcoming_events/2025_freetech_andalucia/</link>
+      <link>//localhost:1313/upcoming_events/2025_freetech_andalucia/</link>
       <pubDate>Sun, 20 Jul 2025 17:31:11 +0100</pubDate>
-      <guid>http://localhost:1313/upcoming_events/2025_freetech_andalucia/</guid>
-      <description></description>
+      <guid>//localhost:1313/upcoming_events/2025_freetech_andalucia/</guid>
+      <description>&lt;p&gt;Pink Triangle Racing is already looking ahead to the final round of the Freetech 2025 season.  As a bit of a blast of late-year warmth, the championship travels out to Spain for a weekend of sunshine, warmth and bike racing, just as the UK&amp;rsquo;s transitioning into the winter season.  Want to come and spend a couple days messing about on motorbikes, then come along and join the team.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;PTR@Andalucia.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;venue-and-key-details&#34;&gt;Venue and Key Details&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Item&lt;/th&gt;&#xA;          &lt;th&gt;Notes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Date&lt;/td&gt;&#xA;          &lt;td&gt;Friday &amp;amp; Saturday 7th &amp;amp; 8th November 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://andaluciacircuit.com/&#34;&gt;Andalucia circuit&lt;/a&gt; or &lt;a href=&#34;https://almeriacircuit.com/en/home-english/&#34;&gt;Almeria circuit&lt;/a&gt; (still to be announced)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue location&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://maps.app.goo.gl/pJCAX7tExksmqnhP9&#34;&gt;Southern Spain&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Championship&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.freetechendurance.com/&#34;&gt;Freetech Endurance&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Thursday 6th November&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Travel day.  Team members make their way to the hotel accommodation in Mojacar.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Friday 7th November&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Event Format&lt;/td&gt;&#xA;          &lt;td&gt;Test day and 2hr Endurance Race&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Bike&lt;/td&gt;&#xA;          &lt;td&gt;KTM RC 125&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Saturday 8th November&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Event Format&lt;/td&gt;&#xA;          &lt;td&gt;8hr Endurance Race&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Bike&lt;/td&gt;&#xA;          &lt;td&gt;KTM RC 125&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Sunday 9th November&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Travel day.  Typically team members will return back to the UK on the Sunday, following Saturday&amp;rsquo;s racing.  This gives a more relaxed home-bound journey.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Number of team riders&lt;/td&gt;&#xA;          &lt;td&gt;3 riders per team&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Previous years have seen the championship racing on the Andalucia Circuit, and, though it&amp;rsquo;s not yet confirmed, it&amp;rsquo;s likely that the 2025 event will be on this (Andalucia) circuit, as opposed to the Almeria circuit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FreeTech Round 1 - Teesside</title>
-      <link>http://localhost:1313/race_reports/2024/freetech_teesside_rnd1/</link>
+      <link>//localhost:1313/race_reports/2024/freetech_teesside_rnd1/</link>
       <pubDate>Tue, 01 Jul 2025 03:20:46 +0100</pubDate>
-      <guid>http://localhost:1313/race_reports/2024/freetech_teesside_rnd1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Join us</title>
-      <link>http://localhost:1313/join_us/</link>
-      <pubDate>Sun, 29 Jun 2025 19:06:46 +0100</pubDate>
-      <guid>http://localhost:1313/join_us/</guid>
-      <description></description>
+      <guid>//localhost:1313/race_reports/2024/freetech_teesside_rnd1/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Event Details&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Date&lt;/td&gt;&#xA;          &lt;td&gt;Friday/Saturday 12th/13th April 2024&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://teessidemotorsports.co.uk/&#34;&gt;Teesside Karting&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Championship&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.freetechendurance.com/&#34;&gt;Freetech Endurance&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Results:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;168 PTR Sprints&lt;/td&gt;&#xA;          &lt;td&gt;Calogero - 3rd in clsass&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;109 JPR Sprints&lt;/td&gt;&#xA;          &lt;td&gt;Adrian - 4th in class&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;168 PTR Endurance&lt;/td&gt;&#xA;          &lt;td&gt;34th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;109 JPR Endurance&lt;/td&gt;&#xA;          &lt;td&gt;49th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;So, the first outing of the season, and the first time running two KTMs alongside each other. What’s the end result? A good time had by all, even if it’s resulted in a precautionary trip to A&amp;amp;E for one rider ☹.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pink Triangle Mountaineering</title>
-      <link>http://localhost:1313/sponsors/pinktrianglemountaineering/</link>
+      <link>//localhost:1313/sponsors/pinktrianglemountaineering/</link>
       <pubDate>Sat, 28 Jun 2025 11:15:58 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/pinktrianglemountaineering/</guid>
-      <description></description>
+      <guid>//localhost:1313/sponsors/pinktrianglemountaineering/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;PTM_4.png&#34; alt=&#34;&#34;&gt;&#xA;Pink Triangle Mountaineering provides activities into the UK&amp;rsquo;s mountainous regions, with a focus on activites being open and welcoming to everyone from all backgrounds.&lt;/p&gt;&#xA;&lt;p&gt;To find out more, do go and check out their &lt;a href=&#34;https://www.instagram.com/pinktrianglemountaineering/&#34;&gt;instagram page&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BLJ91A Ltd</title>
-      <link>http://localhost:1313/sponsors/blj91a/</link>
+      <link>//localhost:1313/sponsors/blj91a/</link>
       <pubDate>Sat, 28 Jun 2025 11:14:45 +0100</pubDate>
-      <guid>http://localhost:1313/sponsors/blj91a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sat, 28 Jun 2025 10:17:52 +0100</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
+      <guid>//localhost:1313/sponsors/blj91a/</guid>
+      <description>&lt;p&gt;BLJ91A Ltd is a provider of contracted engineering support, typically operating in the South West of Enland and South Wales.  Specialising in electro-mechanical machine automation, the company&amp;rsquo;s wide background in small and large scale manufacturing, R&amp;amp;D, product design and physical component and system test areas makes it uniquely positioned to support the engineering community.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re keen to know more, please do visit their &lt;a href=&#34;https://blj91a.co.uk/&#34;&gt;website here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;BLJ91A_logo_main_color.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freetech Round 3 - Teesside</title>
-      <link>http://localhost:1313/race_reports/2024/freetech_teesside_rnd3/</link>
+      <link>//localhost:1313/race_reports/2024/freetech_teesside_rnd3/</link>
       <pubDate>Sat, 28 Jun 2025 10:17:52 +0100</pubDate>
-      <guid>http://localhost:1313/race_reports/2024/freetech_teesside_rnd3/</guid>
-      <description></description>
+      <guid>//localhost:1313/race_reports/2024/freetech_teesside_rnd3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;paddock.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Event Details&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Date&lt;/td&gt;&#xA;          &lt;td&gt;Friday/Saturday 2nd/3rd August 2024&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://teessidemotorsports.co.uk/&#34;&gt;Teesside Karting&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Championship&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.freetechendurance.com/&#34;&gt;Freetech Endurance&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Results:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sprints&lt;/td&gt;&#xA;          &lt;td&gt;Tommy Byatt - 1st Overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Endurance&lt;/td&gt;&#xA;          &lt;td&gt;12th overall, 2nd in class&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h1 id=&#34;friday-and-saturday-testing&#34;&gt;Friday and Saturday testing&lt;/h1&gt;&#xA;&lt;p&gt;Tommy Byatt and Adrian Schmieder were available for the test day, to get some laps in and tune the gearing ratios. We started with the ratio we&amp;rsquo;d finished with earlier in the season at Round 1&amp;hellip; Something must have changed as we ended up with a significantly longer ratio and that seemed to serve us well for the rest of the weekend. General feeling from the day was that things were going smoothly with Tommy putting in low 1:21s laps and Adrian getting fairly solid 1:25s.&#xA;Saturday morning and Jake Forster joined the team for the first time. Having race #teessidekarting quite a few times on pit bikes, this was his first outing with Freetech Endurance Streetstock Production Moto4. Great to have him get out and familiarise himself with the track and bike in the first practise session, and straight away posting 1:24s and 1:25s, it was clear he could ride a bike.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FreeTech Round 5 - Pembrey</title>
-      <link>http://localhost:1313/race_reports/2024/freetech_pembrey/</link>
+      <link>//localhost:1313/race_reports/2024/freetech_pembrey/</link>
       <pubDate>Sat, 28 Jun 2025 10:01:09 +0100</pubDate>
-      <guid>http://localhost:1313/race_reports/2024/freetech_pembrey/</guid>
-      <description></description>
+      <guid>//localhost:1313/race_reports/2024/freetech_pembrey/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Event Details&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Date&lt;/td&gt;&#xA;          &lt;td&gt;Friday/Saturday 27th/28th September 2024&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://pembreycircuit.co.uk//&#34;&gt;Pembrey Race Circuit&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Championship&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.freetechendurance.com/&#34;&gt;Freetech Endurance&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Results:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;168 Pink Triangle Racing&lt;/td&gt;&#xA;          &lt;td&gt;42nd overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;109 JP Racing&lt;/td&gt;&#xA;          &lt;td&gt;44th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Well, another great couple of days out on the bikes with a great track and great people, and for me, a stark reminder that motorsport in the UK is nothing without the dedication of the volunteer marshals.&#xA;With the Plop Enduro round at Mallory park, on the same weekend, being cancelled at the last minute (due to lack of marshals) two more riders (Ricky, returning to Freetech after a bit of a break, and Pete, a first-time FreeTech-er) were brought on board to join the 109 JP Racing KTM with a last-minute race entry only going in on Thursday afternoon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freetech Round 2 - Pembrey</title>
-      <link>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</link>
+      <link>//localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</link>
       <pubDate>Sat, 28 Jun 2025 09:48:15 +0100</pubDate>
-      <guid>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 28 Jun 2025 09:42:50 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <guid>//localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Event Details&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Date&lt;/td&gt;&#xA;          &lt;td&gt;Friday/Saturday 9th/10th May 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://pembreycircuit.co.uk//&#34;&gt;Pembrey Race Circuit&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Championship&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.freetechendurance.com/&#34;&gt;Freetech Endurance&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Results:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Friday 1hr Endurance&lt;/td&gt;&#xA;          &lt;td&gt;30th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Saturday 6hr Endurance&lt;/td&gt;&#xA;          &lt;td&gt;28th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;We’re back! Pink Triangle Racing rejoined the season at Rounds 2 &amp;amp; 3 at Pembrey after missing out on what sounded like a brilliant opener at Darley Moor. Gutted not to make it — especially as none of us have raced there before — but such is life.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

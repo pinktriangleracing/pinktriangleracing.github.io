@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2025 Race Season on Pink Triangle Racing</title>
-    <link>http://localhost:1313/race_reports/2025/</link>
-    <description>Recent content in 2025 Race Season on Pink Triangle Racing</description>
+    <title>2025 Race Season on </title>
+    <link>//localhost:1313/race_reports/2025/</link>
+    <description>Recent content in 2025 Race Season on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Jun 2025 09:48:15 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/race_reports/2025/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/race_reports/2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freetech Round 2 - Pembrey</title>
-      <link>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</link>
+      <link>//localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</link>
       <pubDate>Sat, 28 Jun 2025 09:48:15 +0100</pubDate>
-      <guid>http://localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</guid>
-      <description></description>
+      <guid>//localhost:1313/race_reports/2025/freetech_rnd2_pembrey/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Event Details&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Date&lt;/td&gt;&#xA;          &lt;td&gt;Friday/Saturday 9th/10th May 2025&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Venue&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://pembreycircuit.co.uk//&#34;&gt;Pembrey Race Circuit&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Championship&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.freetechendurance.com/&#34;&gt;Freetech Endurance&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Results:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Friday 1hr Endurance&lt;/td&gt;&#xA;          &lt;td&gt;30th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Saturday 6hr Endurance&lt;/td&gt;&#xA;          &lt;td&gt;28th overall&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;We’re back! Pink Triangle Racing rejoined the season at Rounds 2 &amp;amp; 3 at Pembrey after missing out on what sounded like a brilliant opener at Darley Moor. Gutted not to make it — especially as none of us have raced there before — but such is life.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
