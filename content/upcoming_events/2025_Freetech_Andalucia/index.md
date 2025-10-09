@@ -16,6 +16,7 @@ Pink Triangle Racing is already looking ahead to the final round of the Freetech
 | Venue | [Andalucia circuit](https://andaluciacircuit.com/)|
 | Venue location |[Southern Spain](https://maps.app.goo.gl/8q7Q8cp6uvuckMia6)  |
 |Championship | [Freetech Endurance](https://www.freetechendurance.com/) |
+|Suggested accommodation | [Hotel Punta del Cantal](https://maps.app.goo.gl/hGzkqmLRsLrsLv9T9) <br>Exclusive rates bookable via the [Freetech Shop](https://www.freetechendurance.com/product-page/andalucia-8-hour-race-hotel-moj%C3%A1car) <br> Exclusive rates available until Midnight Sunday 12th October.|
 |**Thursday 6th November**| Travel day.  Team members make their way to the hotel accommodation in Mojacar.|
 | **Friday 7th November** ||
 | Event Format | Test day and 2hr Endurance Race |
@@ -27,16 +28,16 @@ Pink Triangle Racing is already looking ahead to the final round of the Freetech
 | Number of team riders | 3 riders per team|
 
 # International Event Format:
-Thursday -> Travel and unpack day.  
-- With the bike arriving at the track on the Thursday, team members, if they can do so, are encouraged to make it to the track for the Thursday afternoon, to help un-pack and set up the garage spot, for the weekend ahead.  From there team members make their own way to the pre-arranged hotel in Mojacar.  Previous years have seen the championship booked into [Hotel Punta del Cantal](https://maps.app.goo.gl/hGzkqmLRsLrsLv9T9).  This season's hotel is yet to be announced, though it's likely to be in a similar location.
+Thursday 6th November -> Travel and unpack day.  
+- With the bike arriving at the track on the Thursday, team members, if they can do so, are encouraged to make it to the track for the Thursday afternoon, to help un-pack and set up the garage spot, for the weekend ahead.  From there team members make their own way to the pre-arranged hotel in Mojacar.  With exclusive Freetech rates having been arranged for accommodation at  [Hotel Punta del Cantal](https://maps.app.goo.gl/hGzkqmLRsLrsLv9T9), it's a great chance to relax, meet the other riders and chat about the day's riding.
 
 ![](hotel.jpg)
 
-Friday -> Test day and 2hr Endurance Race.  
+Friday 7th November -> Test day and 2hr Endurance Race.  
 - Team members make their way to the track, for track and bike familiarisation for the majority of the day.  The last 2 hrs of the day will be the penultimate race of the season, being a 2hr endurance race.
 - Then it's back to the hotel for some food, any drinks and sleep.
 
-Saturday -> Endurance race day
+Saturday 8th November -> Endurance race day
 - The Saturday is the highlight of the trip, with the 8hr endurance race.  Riders arrive at the track, perhaps a bit of a warm up to start the day, then the race runs from the morning, through until track closure.  
 - Following the race, podium celebrations and debrief, it's pack-down and loading the bikes back ready for transportation back to the UK.  Riders are encouraged to help with the packing away, though travel depending, if journeys have to start promptly to catch flights home, riders are free to do so.  
 
