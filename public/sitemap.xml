@@ -4,6 +4,13 @@
   
     
       <url>
+            <loc>http://localhost:1313/race_reports/2025/stretton_test_day/</loc>
+            <lastmod>2025-10-25T17:37:15+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/upcoming_events/2025_freetech_andalucia/</loc>
             <lastmod>2025-07-20T17:31:11+01:00</lastmod>
           </url>
