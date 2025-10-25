@@ -2,6 +2,7 @@
 date = '2025-06-28T09:48:15+01:00'
 draft = false
 title = 'Freetech Round 2 - Pembrey'
+weight = 10
 +++
 
 | Event Details |  |
