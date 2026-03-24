@@ -6,9 +6,10 @@ showDate = false
 
 
 +++
-With the conclusion of the Freetech Final round in Spain, that's a wrap for the 2025 motorbike racing season for Pink Triangle Racing.  Eyes are turning towards the 2026 season with updates to follow on the team's planned entries.  In the meantime, please do have a look around, and if you're interested in joining, please do get in touch.
+With the 2026 Freetech season already underway, the calendar of events that Pink Triangle Racing will be attending is becoming clearer and clearer.  With some commitments, off the race track, early on in 2026, it's been a shame to miss at least the first 2 rounds of the Freetech 2026 season.  
 
-Some provisional events that the team is looking to enter are below.  Bear in mind, quite a few things may change in this line up.
+Unfortunately with other commitments continuing to cause clashes throughout the year, there will only be a few opportunities to join the team for some fun out at track.  Have a look below to see the provisional dates, and please do get in contact if you're interested / keen to attend and be part of the fun.
+
 
 | Championship | Venue | Start Date | End Date | Notes |
 |-----|----------|----------|----------|----------|
