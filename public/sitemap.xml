@@ -32,6 +32,13 @@
   
     
       <url>
+            <loc>http://localhost:1313/upcoming_events/</loc>
+            <lastmod>2026-11-01T09:44:15+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:1313/race_reports/2024/freetech_teesside_rnd1/</loc>
             <lastmod>2025-07-01T03:20:46+01:00</lastmod>
           </url>
@@ -104,13 +111,6 @@
       <url>
             <loc>http://localhost:1313/race_reports/</loc>
             <lastmod>2025-06-28T09:49:45+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/upcoming_events/</loc>
-            <lastmod>2025-06-28T09:44:15+01:00</lastmod>
           </url>
     
   

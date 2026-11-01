@@ -21,16 +21,33 @@ Mid January 2026 sees David and Sam sat at the pub, chatting away with a cheeky 
 
 A number of car options were discussed until a 2003 Mercedes A Class was settled on and bought for an astonishing price of £150 though the car clearly needed some work to get it MOT and challenge ready.  A spring and summer of car repairs and preparations ensued (including David's daughters getting involved in a new paint job) and finally the car was ready for the upcoming challenge.  
 
-![Mercedes A Class](cheesy_initial_condition.png)
+![Mercedes A Class](cheesy_transformation.png)
 
 # Getting to the start
 
-A short bit about getting to the event in the first place, not much to cover here.
+Setting off from Bristol on Wednesday evening, after work, the team headed down to Kent for the first long leg the car had completed after its MOT and being fully laden with the lads and kit.  No dramas were had and a few celebratory beers were consumed.
 
-# Raceday
+Thursday and Friday saw the team driving through all of Germany and Czechia to the rendez-vous point at [Horska chata Skalka](https://www.google.com/travel/hotels/s/mFMVEZNkuX5eyQpp8).  Many drinks, some good local food and after lots of chattering with other teams the team hit the pit to get a good night's rest before the long challenge ahead.
+
+![Cars in the forest](mountain_hut_start.jpg)
+
+# Challenge day
+
+## Getting to Country #1
+The challenge was to start at 1300h local time just inside the Polish border.  Unfortuantely the event suffered its first casualty before the start line, with a well kitted out Volve hitting a rock coming down the mountain roads, cracking the oil sump.  Thankfully the stop at the local supermarket showed that at least some oil was left in the engine at that point, but the rate it was bleeding out (and making a mess of the place) ended the team's attempt at the challenge.  
+
+![Volvo being recovered](Volvo_broken.png)
+
+A phonecall back to the family in Belgium and a trailer was dispatched for recovery, with the Volvo getting home around 30 hours later.  A shame the team couldn't join the fun, but we're sure to see them again at a future event.
+
+![Cars in the countryside](Cheesy_start_poland.png)
 
 ## Stint 1 - The Initial Chaos
+
+1300h and the 
 Adrian start
+
+
 
 ## Stint 2 - Getting into the stride
 Sam first stint

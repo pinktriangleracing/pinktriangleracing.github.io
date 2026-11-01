@@ -6,7 +6,7 @@
     <description>Recent content on Pink Triangle Racing</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:44:15 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freetech Round 2 - Pembrey</title>
@@ -34,6 +34,13 @@
       <link>http://localhost:1313/race_reports/2025/freetech_finalround_spain/</link>
       <pubDate>Sun, 09 Nov 2025 16:40:15 +0100</pubDate>
       <guid>http://localhost:1313/race_reports/2025/freetech_finalround_spain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Upcoming Events</title>
+      <link>http://localhost:1313/upcoming_events/</link>
+      <pubDate>Sun, 01 Nov 2026 09:44:15 +0100</pubDate>
+      <guid>http://localhost:1313/upcoming_events/</guid>
       <description></description>
     </item>
     <item>
