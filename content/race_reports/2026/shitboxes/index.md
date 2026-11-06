@@ -34,26 +34,83 @@ Thursday and Friday saw the team driving through all of Germany and Czechia to t
 # Challenge day
 
 ## Getting to Country #1
-The challenge was to start at 1300h local time just inside the Polish border.  Unfortuantely the event suffered its first casualty before the start line, with a well kitted out Volve hitting a rock coming down the mountain roads, cracking the oil sump.  Thankfully the stop at the local supermarket showed that at least some oil was left in the engine at that point, but the rate it was bleeding out (and making a mess of the place) ended the team's attempt at the challenge.  
+The challenge was to start at 1300h local time just inside the Polish border.  Unfortuantely the event suffered its first casualty before the start line, with a well kitted-out Volvo hitting a rock coming down the mountain roads, cracking the oil sump.  Thankfully the stop at the local supermarket showed that at least some oil was left in the engine at that point, but the rate it was bleeding out (and making a mess of the place) ended the team's attempt at the challenge.  
 
 ![Volvo being recovered](Volvo_broken.png)
 
 A phonecall back to the family in Belgium and a trailer was dispatched for recovery, with the Volvo getting home around 30 hours later.  A shame the team couldn't join the fun, but we're sure to see them again at a future event.
 
+All other teams made it to the start car park and chilled out, messing around to get some photos and chatting.  Final navigational preparations were made with new GPX tracking apps downloaded.
+
 ![Cars in the countryside](Cheesy_start_poland.png)
 
 ## Stint 1 - The Initial Chaos
+| Stint Details |  |
+|-----|----------|
+| Start |2026-10-24 1300h |
+| End | 2026-10-24 1600h |
+| Driver | Adrian |
+| Countries Visited | Poland, Czechia, Slovakia |
 
-1300h and the 
-Adrian start
+![Cars in the countryside](event_start.png)
 
+1300h arrives and we're off!!!  Until 2 minutes down the road, back into Czechia and a Police checkpoint stops the lead car and asks for documentation.  Thankfully the lead car seemed to keep the Police happy, and they allowed the convoy to continue.  
 
+What then ensued for the PTR team, is an hour of carnage.  It turns out the apps that had been freshly downloaded to keep a track of navigation didn't really work that well.  Adrian was trying to keep to whatever navigational route was being provided by one phone, while also trying to keep an eye on what the other cars were doing...
+
+ > They've gone that way... should we follow???
+ 
+ > Yeah, it's the event organiser... They must know what they're doing...
+
+> Another team's gone that other way...
+
+> Leave them to it, follow the organiser...
+
+> Google's suggesting 3 routes, which should we take?
+
+> Stick to the route we've got already mapped in... I'm sure it'll work itself out...
+
+Some rapid ChatGPT deployment later, and we had a defined Google Maps plan.  Great for keeping us on the most efficient route whilst taking realtime traffic conditions into consideration.
+
+During all of this, a message comes through from the organisers:
+>We've lost clutch...  When we stop at traffic lights, we're having to restart the car in gear, and then we're working through clutch-less gear changes!!! Has anyone got any break / clutch fluid at all?
+
+Somehow we'd found ourselves at the front of the pack, and with a half bottle of break fluid in the boot we were able to stop in at a small side road.  A quick exchange and we were back underway.  Still, somehow, in the lead, and having allowed the organisers to top up and re-bleed their clutch system and continue with minimal delay.
+
+A while later and the question gets asked:
+> How are the other teams getting on?  Are we still leading the pack? How far behind is everyone?
+
+And an interesting answer is given:
+
+> Well... we can't tell...  
+Most of the other teams are on the same route as us.  
+The other British team has gone a subtly different route, they are possibly ahead, but it looks as if it's a longer way round.  
+The Germans seem to have gone a totally different direction, and we're not even sure how they can recover this... They're going East to Bratislava and we can't make sense of it.
+
+Well let's carry on with our own adventure... We're 2 hours into a 24hr slog... who knows what might happen.  
+
+20min down the road, we get overtaken on a motorway by the Swiss team (what a sight) only for them to have to dip into a fuel station to fill up.  Another 20min down the road, and that's the first stint concluded on the pre-planned 3hr mark.  A quick roadside rotation, and Sam takes the reigns.
 
 ## Stint 2 - Getting into the stride
+| Stint Details |  |
+|-----|----------|
+| Start |2026-10-24 1600h |
+| End | 2026-10-24 1915h |
+| Driver | Sam |
+| Countries Visited | Slovakia, Hungary |
+
 Sam first stint
 
 ## Stint 3 - Boarders, boarders and more boarders
-David overnight and boarder crossings
+
+| Stint Details |  |
+|-----|----------|
+| Start |2026-10-24 1915h |
+| End | 2026-10-25 0045h |
+| Driver | David |
+| Countries Visited | Hungary, Romania, Hungary, Serbia, Croatia, Bosnia and Herzegovina, Croatia |
+
+A write up from David: 
 
 I drew the short straw with the night shift, taking us from Hungary through Romania, Serbia, Croatia and into Bosnia. Six hours of bleak weather, relentless rain and windscreen wipers that seemed more interested in screeching and smearing water around than actually removing it. Visibility was somewhere between questionable and completely hopeless. Adrian joined me on point duty, keeping us heading in roughly the right direction, while Sam took on the equally demanding responsibility of sleeping through most of it.
 
@@ -61,13 +118,45 @@ Things got interesting at the Serbian–Croatian border when the Germans in the 
 
 
 ## Stint 4 - Motorways in the mist
-Adrian overnight motorway schleps
+| Stint Details |  |
+|-----|----------|
+| Start |2026-10-25 0045h |
+| End | 2026-10-25 0215h, daylight savings change |
+| Driver | Adrian |
+| Countries Visited | Croatia, Slovenia |
+
+Just back on the Croatian side of the Bosnia and Herzegovina boarder and I take on the next stint.  The route from here is a tiny bit of North to get the the motorway and then on this one road West all the way through Croatia and then continuing on through Slovenia.  It's the dead of night, rain's coming down hard, our wipers really aren't the best... let's settle in for a motorway slog...
+
+A quick check on other teams' locations, and we see the event organisers (who were ahead of us) are coming down South towards us???  Where have they been?  Have we somehow overtaken them?  Have they taken a wrong turning?  Oh wait...  We're at the motorway junction... which exit do we need?  This side of the barrier, or that side???  It's this side; no it's that side...  I'm going this way...  Ohhh... good call, that seems to be taking us the correct way...
+
+Ahhh... that's what the guys ahead of us did... what a confusing junction, and in these conditions, we only just avoiding going wrong ourselves!!
+
+Croatia... what's there to say?  Cheesy wasn't liking the slow lane of that whole motorway.  Every single small undulation seemed to unsetle the car and induce a sideways jump.  Sitting in the overtaking lane the whole time avoided this concern.
+
+> I think we've made it into Slovenia
+
+At the boarder, the long straight motorway suddenly gets bendy... and foggy!!!  Trying to maintain decent progress, fog lights dismally attempting to illuminate at least some of the road ahead... let's slow down a bit and avoid falling off the road.  
+
+~3hrs of motorway after the stint started and a fuel stop was found.  We're about to head through the Austrian and Italian Alps, at silly-o'clock in the morning...  let's not run out of fuel there.  Here you go Sam... have fun on some small roads... I need some sleep!!
 
 ## Stint 5 - The Italian Alps
+| Stint Details |  |
+|-----|----------|
+| Start | 2026-10-25 0215h |
+| End | 2026-10-25 0530h |
+| Driver | Sam |
+| Countries Visited | Slovenia, Austria, Italy |
+
 Sam through the Alps
 
 ## Stint 6 - We've had enough of these mountains
-David write up
+
+| Stint Details |  |
+|-----|----------|
+| Start | 2026-10-25 0530h |
+| End | 2026-10-25 1000h |
+| Driver | David |
+| Countries Visited | Italy, Austria, Liechtenstein, Switzerland |
 
 After surviving the previous night's misery, I was rewarded with arguably the best driving stint of the challenge. Austria, Switzerland, Liechtenstein and back into Switzerland, finishing in Zurich. Glorious Alpine scenery, sweeping mountain roads, brilliant tunnels and finally some daylight! Fuelled by a can of Monster, a bag of Haribo and a wildly misplaced belief that cheesy was a genuine racing car, I was thoroughly enjoying myself. Adrian was back on point duty while Sam attempted to catch up on sleep, although my enthusiasm for the Austrian roads made that somewhat challenging. The only real confrontation came courtesy of an impatient BMW driver who repeatedly tried to blind me with his headlights in a heavily speed-camera-controlled tunnel. An admittedly ill-advised brake check got the message across, and provided an adrenaline hit considerably stronger than the Monster.
 
@@ -75,9 +164,26 @@ With the leading two teams still ahead, our strategy shifted towards maximising 
 
 
 ## Stint 7 - French Autoroutes
+
+| Stint Details |  |
+|-----|----------|
+| Start | 2026-10-25 1000h |
+| End | 2026-10-25 1200h |
+| Driver | Adrian |
+| Countries Visited | Switzerland, Germany, France |
+
+
 Adrian daytime motorway route
 
 ## Stint 8 - The final dash and a chance of UK 1-2 finish
+
+| Stint Details |  |
+|-----|----------|
+| Start | 2026-10-25 1200h |
+| End | 2026-10-25 1513h |
+| Driver | Sam |
+| Countries Visited | France, Luxembourg, Belgium, Netherlands |
+
 Sam final stint write up.
 
 # Getting home
