@@ -19,6 +19,8 @@ showTableOfContents = true
 # The build up and preparations
 Mid January 2026 sees David and Sam sat at the pub, chatting away with a cheeky opportunity of enjoying a few drinks on a Saturday afternoon while the family and wives were occupied...  Some nonsense chatting later, and Adrian had been roped into committing to driving through 18 countries in Europe, within 24 hours (or at least attempting to do so).  One catch, the car has to be a "shitbox".  
 
+SHITBOX -> <u>S</u>upporting <u>H</u>opeful <u>I</u>nnovations <u>T</u>hrough <u>B</u>reakdowns, <u>O</u>il and <u>Xt</u>ra tape
+
 A number of car options were discussed until a 2003 Mercedes A Class was settled on and bought for an astonishing price of £150 though the car clearly needed some work to get it MOT and challenge ready.  A spring and summer of car repairs and preparations ensued (including David's daughters getting involved in a new paint job) and finally the car was ready for the upcoming challenge.  
 
 ![Mercedes A Class](cheesy_transformation.png)
@@ -99,6 +101,8 @@ Well let's carry on with our own adventure... We're 2 hours into a 24hr slog... 
 | Driver | Sam |
 | Countries Visited | Slovakia, Hungary |
 
+![Hungary Boarder](hungary_boarder.png)
+
 Sam first stint
 
 ## Stint 3 - Boarders, boarders and more boarders
@@ -111,6 +115,8 @@ Sam first stint
 | Countries Visited | Hungary, Romania, Hungary, Serbia, Croatia, Bosnia and Herzegovina, Croatia |
 
 A write up from David: 
+
+![Stint 3 Country Boarders](stint3_countries.png)
 
 I drew the short straw with the night shift, taking us from Hungary through Romania, Serbia, Croatia and into Bosnia. Six hours of bleak weather, relentless rain and windscreen wipers that seemed more interested in screeching and smearing water around than actually removing it. Visibility was somewhere between questionable and completely hopeless. Adrian joined me on point duty, keeping us heading in roughly the right direction, while Sam took on the equally demanding responsibility of sleeping through most of it.
 
@@ -149,7 +155,9 @@ At the boarder, the long straight motorway suddenly gets bendy... and foggy!!!  
 
 Sam through the Alps
 
-## Stint 6 - We've had enough of these mountains
+![Italy Boarder](Italy_Boarder.png)
+
+## Stint 6 - Aren't these mountains stunning!!
 
 | Stint Details |  |
 |-----|----------|
@@ -158,10 +166,13 @@ Sam through the Alps
 | Driver | David |
 | Countries Visited | Italy, Austria, Liechtenstein, Switzerland |
 
-After surviving the previous night's misery, I was rewarded with arguably the best driving stint of the challenge. Austria, Switzerland, Liechtenstein and back into Switzerland, finishing in Zurich. Glorious Alpine scenery, sweeping mountain roads, brilliant tunnels and finally some daylight! Fuelled by a can of Monster, a bag of Haribo and a wildly misplaced belief that cheesy was a genuine racing car, I was thoroughly enjoying myself. Adrian was back on point duty while Sam attempted to catch up on sleep, although my enthusiasm for the Austrian roads made that somewhat challenging. The only real confrontation came courtesy of an impatient BMW driver who repeatedly tried to blind me with his headlights in a heavily speed-camera-controlled tunnel. An admittedly ill-advised brake check got the message across, and provided an adrenaline hit considerably stronger than the Monster.
+![Mountain Views](Mountain_views.png)
+
+After surviving the previous night's misery, I was rewarded with arguably the best driving stint of the challenge. Italy, Austria, Switzerland, Liechtenstein and back into Switzerland, finishing in just outside Basel. Glorious Alpine scenery, sweeping mountain roads, brilliant tunnels and finally some daylight! Fuelled by a can of Monster, a bag of Haribo and a wildly misplaced belief that cheesy was a genuine racing car, I was thoroughly enjoying myself. Adrian was back on point duty while Sam attempted to catch up on sleep, although my enthusiasm for the Austrian roads made that somewhat challenging. The only real confrontation came courtesy of an impatient BMW driver who repeatedly tried to blind me with his headlights in a heavily speed-camera-controlled tunnel. An admittedly ill-advised brake check got the message across, and provided an adrenaline hit considerably stronger than the Monster.
 
 With the leading two teams still ahead, our strategy shifted towards maximising time between fuel stops. Unfortunately, Adrian's navigation skills briefly deserted him when he directed us to a fuel station that appeared to be missing one crucial feature: an actual fuel station. With the gauge firmly on zero and our hopes of finishing evaporating, we limped to another garage and brimmed the tank, giving us just enough fuel to reach the finish. Four and a half hours of Alpine roads, questionable overtaking etiquette, fuel-range roulette and enough sugar and caffeine to restart a small power station. Easily my favourite stint of the challenge!
 
+![Liechtenstein - Switzerland Board](switzerland.png)
 
 ## Stint 7 - French Autoroutes
 
@@ -172,8 +183,11 @@ With the leading two teams still ahead, our strategy shifted towards maximising 
 | Driver | Adrian |
 | Countries Visited | Switzerland, Germany, France |
 
+Feeling relieved that my incorrect assumption that a "Rest Stop" included a fuel station hadn't caused us a significant delay, we were off again, with an absolutely brimmed tank of fuel.  Straight through the German boarder and on an autobahn around Basel I remembered our next Google Maps checkpoint is back in Basel city.  This is just at the junction of Switzerland, Germany and France, and was placed such that we could just touch into Germany and be straight into France...  But hold on, we're already in Germany and have the country ticked off...  It's now a Sunday morning and I feel we're about to get swamped into city traffic if we get to that checkpoint.  
 
-Adrian daytime motorway route
+A bit of searching around by the other guys, and it was confirmed we can simply continue north from Basel, then cross into France East of Mulhouse.  From there continue North to Strasbourg and then cut North-West to Metz.  
+
+Another motorway slog, and the weather really wasn't much better than my last stint, except this time it's daylight with increased side-winds from storm Austen, and now there's other traffic on the roads.  Having been up and alert since 0530h, the fatigue was setting in and after only a short stint of around 2hrs driving, it suddenly felt unsafe to be driving and the reigns were handed over early for Sam's, and the challenge's (hopefully), last driver stint.
 
 ## Stint 8 - The final dash and a chance of UK 1-2 finish
 
@@ -186,5 +200,15 @@ Adrian daytime motorway route
 
 Sam final stint write up.
 
+![Boost Hose Repair](boost-hose-repair.png)
+
+![Country Checklist](country_checklist.jpeg)
+
+![Finish](finish.png)
+
 # Getting home
-Some stuff about the journey home.
+After good food, some good Belgian beer and a good night's sleep in Liège the team was up early for the journey home.  Only a short 3hr stint later and the team was doing a bit of booze-cruise shopping before getting on the train back to the UK.  
+
+A further short 4hr stint and the team was back at base unloading the car before small jaunt to Bristol, where the car is to be wrapped up warm, given a rest and put up for sale for another adventure at another home.  A great time was had, a break away from the office, and potentially a world-record set!!!  Thanks again [Shitbox Adventures](https://www.shitboxadventures.world/) for organising a unique experience, and until the next time, when we'll be sure to be bringing the British to the party!!
+
+{{< youtube goJlBin7qGM >}}
