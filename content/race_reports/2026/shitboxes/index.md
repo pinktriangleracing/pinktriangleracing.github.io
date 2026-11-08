@@ -21,6 +21,8 @@ Mid January 2026 sees David and Sam sat at the pub, chatting away with a cheeky 
 
 SHITBOX -> <u>S</u>upporting <u>H</u>opeful <u>I</u>nnovations <u>T</u>hrough <u>B</u>reakdowns, <u>O</u>il and <u>Xt</u>ra tape
 
+![Route Map](Complete_route_map.png)
+
 A number of car options were discussed until a 2003 Mercedes A Class was settled on and bought for an astonishing price of £150 though the car clearly needed some work to get it MOT and challenge ready.  A spring and summer of car repairs and preparations ensued (including David's daughters getting involved in a new paint job) and finally the car was ready for the upcoming challenge.  
 
 ![Mercedes A Class](cheesy_transformation.png)
@@ -47,6 +49,9 @@ All other teams made it to the start car park and chilled out, messing around to
 ![Cars in the countryside](Cheesy_start_poland.png)
 
 ## Stint 1 - The Initial Chaos
+
+![Stint 1 Map](Stint1_Map.png)
+
 | Stint Details |  |
 |-----|----------|
 | Start |2026-10-24 1300h |
@@ -54,9 +59,9 @@ All other teams made it to the start car park and chilled out, messing around to
 | Driver | Adrian |
 | Countries Visited | Poland, Czechia, Slovakia |
 
-![Cars in the countryside](event_start.png)
-
 1300h arrives and we're off!!!  Until 2 minutes down the road, back into Czechia and a Police checkpoint stops the lead car and asks for documentation.  Thankfully the lead car seemed to keep the Police happy, and they allowed the convoy to continue.  
+
+![Cars in the countryside](event_start.png)
 
 What then ensued for the PTR team, is an hour of carnage.  It turns out the apps that had been freshly downloaded to keep a track of navigation didn't really work that well.  Adrian was trying to keep to whatever navigational route was being provided by one phone, while also trying to keep an eye on what the other cars were doing...
 
@@ -94,6 +99,9 @@ Well let's carry on with our own adventure... We're 2 hours into a 24hr slog... 
 20min down the road, we get overtaken on a motorway by the Swiss team (what a sight) only for them to have to dip into a fuel station to fill up.  Another 20min down the road, and that's the first stint concluded on the pre-planned 3hr mark.  A quick roadside rotation, and Sam takes the reigns.
 
 ## Stint 2 - Getting into the stride
+
+![Stint 2 Map](Stint2_Map.png)
+
 | Stint Details |  |
 |-----|----------|
 | Start |2026-10-24 1600h |
@@ -106,6 +114,8 @@ Well let's carry on with our own adventure... We're 2 hours into a 24hr slog... 
 Sam first stint
 
 ## Stint 3 - Boarders, boarders and more boarders
+
+![Stint 3 Map](Stint3_Map.png)
 
 | Stint Details |  |
 |-----|----------|
@@ -124,6 +134,9 @@ Things got interesting at the Serbian–Croatian border when the Germans in the 
 
 
 ## Stint 4 - Motorways in the mist
+
+![Stint 4 Map](Stint4_Map.png)
+
 | Stint Details |  |
 |-----|----------|
 | Start |2026-10-25 0045h |
@@ -146,6 +159,9 @@ At the boarder, the long straight motorway suddenly gets bendy... and foggy!!!  
 ~3hrs of motorway after the stint started and a fuel stop was found.  We're about to head through the Austrian and Italian Alps, at silly-o'clock in the morning...  let's not run out of fuel there.  Here you go Sam... have fun on some small roads... I need some sleep!!
 
 ## Stint 5 - The Italian Alps
+
+![Stint 5 Map](Stint5_Map.png)
+
 | Stint Details |  |
 |-----|----------|
 | Start | 2026-10-25 0215h |
@@ -158,6 +174,8 @@ Sam through the Alps
 ![Italy Boarder](Italy_Boarder.png)
 
 ## Stint 6 - Aren't these mountains stunning!!
+
+![Stint 6 Map](Stint6_Map.png)
 
 | Stint Details |  |
 |-----|----------|
@@ -176,6 +194,8 @@ With the leading two teams still ahead, our strategy shifted towards maximising 
 
 ## Stint 7 - French Autoroutes
 
+![Stint 7 Map](Stint7_Map.png)
+
 | Stint Details |  |
 |-----|----------|
 | Start | 2026-10-25 1000h |
@@ -190,6 +210,8 @@ A bit of searching around by the other guys, and it was confirmed we can simply 
 Another motorway slog, and the weather really wasn't much better than my last stint, except this time it's daylight with increased side-winds from storm Austen, and now there's other traffic on the roads.  Having been up and alert since 0530h, the fatigue was setting in and after only a short stint of around 2hrs driving, it suddenly felt unsafe to be driving and the reigns were handed over early for Sam's, and the challenge's (hopefully), last driver stint.
 
 ## Stint 8 - The final dash and a chance of UK 1-2 finish
+
+![Stint 8 Map](Stint8_Map.png)
 
 | Stint Details |  |
 |-----|----------|
